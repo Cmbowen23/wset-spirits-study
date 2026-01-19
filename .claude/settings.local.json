@@ -12,7 +12,17 @@
       "Bash(npx tsc:*)",
       "Bash(killall:*)",
       "Bash(git init:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(gh auth status:*)",
+      "Bash(gh repo create:*)",
+      "Bash(npm run build:*)",
+      "Bash(git push:*)",
+      "Bash(npm uninstall:*)",
+      "Bash(timeout 120 npm run build:*)",
+      "Bash(gtimeout 120 npm run build:*)",
+      "Bash(npm run:*)",
+      "Bash(tee:*)"
     ]
   }
 }
