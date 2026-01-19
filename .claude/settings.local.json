@@ -22,7 +22,8 @@
       "Bash(timeout 120 npm run build:*)",
       "Bash(gtimeout 120 npm run build:*)",
       "Bash(npm run:*)",
-      "Bash(tee:*)"
+      "Bash(tee:*)",
+      "Bash(curl:*)"
     ]
   }
 }
